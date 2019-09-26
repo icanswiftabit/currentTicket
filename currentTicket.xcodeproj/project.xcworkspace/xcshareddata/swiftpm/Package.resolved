@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "currentBranch",
+        "repositoryURL": "https://github.com/icanswiftabit/currentBranch.git",
+        "state": {
+          "branch": null,
+          "revision": "0d572c380a5b78a238e23e3a1c6283329ae08d0a",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SwiftShell",
+        "repositoryURL": "https://github.com/kareman/SwiftShell",
+        "state": {
+          "branch": null,
+          "revision": "2614f86520e66e19328f11b00dabd474209e82f7",
+          "version": "5.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
